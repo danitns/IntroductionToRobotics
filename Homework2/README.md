@@ -8,7 +8,7 @@
 - Arduino Uno
 
 **Setup:**\
-[Setup](pictures/setupPicture.jpeg)
+![Setup](pictures/setupPicture.jpeg)
 
 **Video:**\
 [Youtube](https://youtu.be/Ond8keOTB9U?si=BlOov6HXLk8iShDH)
