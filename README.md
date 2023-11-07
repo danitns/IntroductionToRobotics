@@ -8,3 +8,7 @@ Go to [solution](./Homework2/README.md).
 ## Homework 3
 **Task**: This assignment involves simulating a 3-floor elevator control system using LEDs, buttons, and a buzzer with Arduino.
 Go to [solution](./Homework3/README.md).
+
+## Homework 4
+**Task**: You will use the joystick to control the position of the segment and ”draw” on the display. The movement between segments should be natural, meaning they should jump from the current position only to neighbors, but without passing through ”walls”.
+Go to [solution]
