@@ -12,3 +12,7 @@ Go to [solution](./Homework3/README.md).
 ## Homework 4
 **Task**: You will use the joystick to control the position of the segment and ”draw” on the display. The movement between segments should be natural, meaning they should jump from the current position only to neighbors, but without passing through ”walls”.
 Go to [solution]
+
+## Homework 5
+**Task**: Using the 4 digit 7 segment display and 3 buttons, you should implement a stopwatch timer that counts in 10ths of a second and has a save lap functionality
+Go to [solution]
