@@ -16,3 +16,7 @@ Go to [solution](./Homework4/README.md)
 ## Homework 5
 **Task**: Using the 4 digit 7 segment display and 3 buttons, you should implement a stopwatch timer that counts in 10ths of a second and has a save lap functionality
 Go to [solution](./Homework5/README.md)
+
+## Homework 6
+**Task**: An Arduino-based project for environmental monitoring and logging. Utilizes EEPROM-stored values, RGB LED control, and integrates sensors for real-time data. Features a structured menu system for user interaction.
+Go to [solution](./Homework6/README.md)
