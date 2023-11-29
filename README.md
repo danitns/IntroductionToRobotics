@@ -20,3 +20,7 @@ Go to [solution](./Homework5/README.md)
 ## Homework 6
 **Task**: An Arduino-based project for environmental monitoring and logging. Utilizes EEPROM-stored values, RGB LED control, and integrates sensors for real-time data. Features a structured menu system for user interaction.
 Go to [solution](./Homework6/README.md)
+
+## Homework 7
+**Task**: Developed as an engaging introduction to matrix projects, the Bomber Challenge is a small-scale game tailored for an 8x8 matrix display.
+Go to [solution](./Homework7/README.md)
