@@ -24,3 +24,6 @@ Go to [solution](./Homework6/README.md)
 ## Homework 7
 **Task**: Developed as an engaging introduction to matrix projects, the Bomber Challenge is a small-scale game tailored for an 8x8 matrix display.
 Go to [solution](./Homework7/README.md)
+
+## Homework 8
+**Task**: The primary goal for this checkpoint is to enhance the basic functionality of the matrix project. The following features have been incorporated to elevate the user experience. Go to [solution](./Homework8/README.md)
